@@ -145,7 +145,10 @@ body {
 }
 .list-item a img {
   max-width: 100%;
-  height: auto;
+  height: 200px;
+}
+.list-item-article article {
+  text-align: center;
 }
 .list-item-article h1 {
   font-size: 0.9rem;
