@@ -19,10 +19,13 @@ export function hbs(done) {
       .partials('./app/templates/layouts/**/*.hbs')
       .partials('./app/templates/partials/**/*.hbs')
 
+      // Data
+      .data('./app/data/**/*.{js,json}')
+
       // Helpers
       .helpers(require('handlebars-helpers'))
       .helpers(require('handlebars-layouts'))
-      .helpers('./app/templates/helpers/**.*js')
+      .helpers('./app/templates/helpers/**/*js')
       
 
   return gulp.src([
