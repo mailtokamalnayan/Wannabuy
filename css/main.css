@@ -94,9 +94,108 @@ textarea {
 /* ==========================================================================
    Author's custom styles
    ========================================================================== */
-
-
-
+body {
+	font-family: -apple-system,BlinkMacSystemFont,"Helvetica Neue",sans-serif;
+	background-color: #F8F9FA;
+	letter-spacing: 0;
+    font-weight: 400;
+    font-style: normal;
+    text-rendering: optimizeLegibility;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    -moz-font-feature-settings: "liga" on;
+	line-height: 1;
+	color: #868E96;
+}
+.site-header {
+	background-color: #fff;
+	position: fixed;
+	width: 100%;
+	box-shadow: 0 1px 2px 0px #ddd;
+	top: 0;
+	z-index: 10;
+}
+.site-header h1 { 
+	margin: 0; 
+	font-size: 0.9rem;
+	padding-top: 1rem;
+	padding-bottom: 1rem;
+}
+.site-header h1 a {
+	font-weight: 600;
+	text-decoration: none;
+	color: #C2255C;
+	text-transform: uppercase;
+}
+.container {
+	padding-left: 1rem;
+	padding-right: 1rem;
+	max-width: 1140px;
+	margin-left: auto;
+	margin-right: auto;
+}
+.list-container {
+	margin-top: 4rem;
+}
+.list { padding: 0; }
+.list-item {
+	list-style-type: none;
+	margin-bottom: 1rem;
+	width: 100%;
+}
+.list-item a {
+	display: block;
+	background-color: #fff;
+	padding: 1rem;
+	text-decoration: none;
+}
+.list-item a img {
+	max-width: 100%;
+	height: auto;
+}
+.list-item-article h1 {
+	font-size: 0.9rem;
+	font-weight: 400;
+	color: #868E96;
+	margin: 0 0 0.75rem 0;
+}
+.list-item-article h2 {
+	font-size: 0.9rem;
+	font-weight: 600;
+	color: #C2255C;
+	margin: 0;
+}
+.list-item-article h3 {
+	font-size: 0.8rem;
+	font-weight: 200;
+	color: #868E96;
+	opacity: 0.7;
+	margin: 0 0 0.5rem 0;
+}
+.site-footer {
+	text-align: center;
+	padding-top: 2rem;
+	padding-bottom: 2rem;
+	font-size: 0.8rem;
+}
+.site-footer a {
+	color: inherit;
+}
+@media screen and (min-width: 768px) {
+	.list { 
+		display: flex; 
+		flex-wrap: wrap;
+		justify-content: space-between;
+	}
+	.list-item {
+		width: calc(50% - 0.5em);
+	}
+}
+@media screen and (min-width: 1024px) {
+	.list-item {
+		width: calc(33.33% - 1em);
+	}
+}
 
 
 
