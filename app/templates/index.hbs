@@ -1,0 +1,35 @@
+---
+title: Wanna Buy 💕
+description: Collection of beautiful things that you can buy in India
+---
+
+{{#extend "master"}}
+{{#content "body"}}
+			
+			<section class="list-container container">
+				<ul class="list">
+
+				{{#with products}}
+				  {{#each products}}
+
+							<li class="list-item">
+								<a href="{{source}}" title="{{name}} - {{store}}">
+									<article class="list-item-article">
+										<figure><img src="{{image}}" alt="" /></figure>
+										<header>
+											<h3>{{store}}</h3>
+											<h1>{{name}}</h1>
+											<h2>₹ {{price}}</h2>
+										</header>
+									</article>
+								</a>
+							</li>
+
+				  {{/each}}
+				{{/with}}
+
+				</ul>
+			</section>
+  
+{{/content}}
+{{/extend}}
