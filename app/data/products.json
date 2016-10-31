@@ -44,7 +44,7 @@
             "name": "Do Epic Shit Wallet",
             "store": "Letternote",
             "price": "795",
-            "reason": "Do epic shit.",
+            "reason": "Do epic shit",
             "source": "https://www.letternote.in/collections/wallets-accessories/products/do-epic-shit-embossed-wallet",
             "image": "https://cdn.shopify.com/s/files/1/1021/0585/products/do_epic_2_grande.jpg?v=1476263814"
         },
@@ -62,6 +62,14 @@
             "price": "9,990",
             "reason": "No brainer!",
             "source": "http://www.amazon.in/Nikon-Nikkor-Prime-Digital-Camera/dp/B001S2PPT0/",
+            "image": "http://ecx.images-amazon.com/images/I/41FtgQymFDL.jpg"
+        },
+        {
+            "name": "The Elements of Typographic Style: 4.0: 20th Anniversary Edition",
+            "store": "Amazon",
+            "price": "1,532",
+            "reason": "Classic",
+            "source": "http://www.amazon.in/gp/product/0881792128/",
             "image": "http://ecx.images-amazon.com/images/I/41FtgQymFDL.jpg"
         }
     ]
