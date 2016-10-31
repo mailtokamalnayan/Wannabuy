@@ -1,6 +1,6 @@
 ---
-title: Wanna Buy 💕
-description: Collection of beautiful things that you can buy in India
+title: Soochi
+description: List of beautiful objects
 ---
 
 {{#extend "master"}}
@@ -13,13 +13,19 @@ description: Collection of beautiful things that you can buy in India
 				  {{#each products}}
 
 							<li class="list-item">
-								<a href="{{source}}" title="{{name}} - {{store}}">
+								<a href="{{source}}" title="{{name}} - {{reason}}">
 									<article class="list-item-article">
-										<figure><img src="{{image}}" alt="" /></figure>
+										<figure>
+											<img data-src="{{image}}" src="/images/bg.png" alt="" />
+											<noscript>
+												<img src="{{image}}" />
+											</noscript>
+										</figure>
 										<header>
-											<h3>{{store}}</h3>
-											<h1>{{name}}</h1>
-											<h2>₹ {{price}}</h2>
+											<h3 class="store-name">{{store}}</h3>
+											<h1 class="produc-name">{{name}}</h1>
+											<h2 class="price">₹ {{price}}</h2>
+											<h4 class="reason">{{reason}}</h4>
 										</header>
 									</article>
 								</a>
