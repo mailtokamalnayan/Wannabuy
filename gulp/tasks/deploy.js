@@ -7,7 +7,7 @@ gulp.task('deploy', (done) => {
 
   gulp.src('./build/**/*')
   .pipe(ghPages({
-     'remoteUrl' : 'git@github.com:Ghosh/Hector.git'
+     'remoteUrl' : 'git@github.com:mailtokamalnayan/wannabuy.git'
   }))
 
   done();
