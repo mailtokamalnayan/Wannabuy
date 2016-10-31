@@ -70,7 +70,31 @@
             "price": "1,532",
             "reason": "Classic",
             "source": "http://www.amazon.in/gp/product/0881792128/",
-            "image": "http://ecx.images-amazon.com/images/I/41FtgQymFDL.jpg"
+            "image": "http://ecx.images-amazon.com/images/I/41aX0fEkNwL._SX291_BO1,204,203,200_.jpg"
+        },
+        {
+            "name": "Eliofeet Men Running Shoes - Black Green",
+            "store": "Decathlon",
+            "price": "1,999",
+            "reason": "Almost perfect budget running shoes",
+            "source": "http://www.decathlon.in/p/8351744_eliofeet-men-s-black-green.html#/4914-272-uk_5_5_eu_39",
+            "image": "http://media.decathlon.in/192399/eliofeet-men-s-black-green.jpg"
+        },
+        {
+            "name": "Paaji Mousepad",
+            "store": "The Elephant Company",
+            "price": "299",
+            "reason": "Because Paaji",
+            "source": "http://www.theelephantcompany.com/tech-travel-accessories/mousepads/paaji-mousepad.html",
+            "image": "http://www.theelephantcompany.com/media/catalog/product/cache/1/image/1315x1319/9df78eab33525d08d6e5fb8d27136e95/i/m/img_0344_1.1477633932.jpg"
+        },
+        {
+            "name": "Fuh Hip Flask",
+            "store": "Happily Unmarried",
+            "price": "849",
+            "reason": "Because Fu*k everything",
+            "source": "http://www.happilyunmarried.com/products/bar/fuh-fip-flask.html",
+            "image": "https://d1x37q7rgyecq0.cloudfront.net/media/catalog/product/cache/1/thumbnail/804x/9df78eab33525d08d6e5fb8d27136e95/i/m/img_8733.jpg"
         }
     ]
 }
