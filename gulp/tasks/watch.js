@@ -19,7 +19,7 @@ import { reload } from './serve.js';
 
 const watchers = [
   gulp.watch(['./app/templates/**/*.hbs'], gulp.series(hbs, reload)),
-  gulp.watch(['./app/docs/**/*.md'], gulp.series(hbs, reload)),
+  gulp.watch(['./app/data/**/*.json'], gulp.series(hbs, reload)),
   gulp.watch(['./app/assets/scss/**/*.scss'], gulp.series(styles)),
   gulp.watch(['./app/assets/js/**/*.js'], gulp.series(scripts, reload)),
   gulp.watch(['./app/assets/images/**/*'], gulp.series(images, reload)),
