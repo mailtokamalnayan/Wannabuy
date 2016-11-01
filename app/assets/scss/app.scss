@@ -92,7 +92,7 @@ textarea {
    ========================================================================== */
 body {
   font-family: -apple-system,BlinkMacSystemFont,"Helvetica Neue",sans-serif;
-  background-color: #F8F9FA;
+  background-color: #F1F3F5;
   letter-spacing: 0;
 	font-weight: 400;
 	font-style: normal;
@@ -140,8 +140,6 @@ body {
   margin-top: 4rem;
 }
 .list { padding: 0; }
-.list:hover li img { opacity: 0.65 !important; }
-.list li:hover img { opacity: 1 !important; }
 .list-item {
   list-style-type: none;
   margin-bottom: 1rem;
@@ -175,6 +173,7 @@ body {
   font-weight: 400;
   color: $primary-color;
   margin: 0 0 0.75rem 0;
+  line-height: 1.2;
   @extend .truncate;
 }
 .list-item-article h2 {
@@ -248,6 +247,8 @@ body {
   .list-item {
     width: calc(25% - 0.75em);
   }
+  .list:hover li img { opacity: 0.65 !important; }
+  .list li:hover img { opacity: 1 !important; }
 }
 
 

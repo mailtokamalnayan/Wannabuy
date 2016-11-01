@@ -60,7 +60,7 @@ console.log( 'Hey you!' );
 })(window.jQuery || window.Zepto);
 
 $(document).ready(function() {
-  $(".list-item-article figure img").unveil(200, function() {
+  $(".list-item-article figure img").unveil(100, function() {
     $(this).load(function() {
       this.style.opacity = 1;
     });
