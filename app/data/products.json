@@ -135,7 +135,31 @@
             "reason": "Solid Pieces of Wood",
             "source": "http://analogwatchco.com/leather-blackwood-wooden-timepiece",
             "image": "https://static1.squarespace.com/static/51633bade4b03e4701a31f70/52edc0b1e4b0358dd4de9b25/5401492ee4b0a7034af9591b/1409370422731/l.jpg?format=1000w"
-        }
+        },
+				{
+						"name": "que Bottle: The Fashionable & Collapsible Travel Bottle",
+						"store": "Kickstarter",
+						"price": "1,001",
+						"reason": "Unique spiral design",
+						"source": "https://www.kickstarter.com/projects/1024689211/que-bottle-the-fashionable-and-collapsible-travel",
+						"image": "https://ksr-ugc.imgix.net/assets/013/867/379/21cd225f3913fd2be1a25c4726684702_original.gif?w=680&fit=max&v=1474838626&q=92&s=13974f94bb8374979c799b2ea6092593"
+				},
+				{
+						"name": "Bodum Brazil Shatterproof 8-Cup French Press Coffee Maker",
+						"store": "Amazon",
+						"price": "1,838",
+						"reason": "heat-resistant, shatterproof SAN plastic beaker",
+						"source": "http://www.amazon.in/Bodum-Brazil-Shatterproof-French-Coffee/dp/B002UG46DO/",
+						"image": "http://ecx.images-amazon.com/images/I/61kupSu5F-L._SL1500_.jpg"
+				},
+				{
+						"name": "Braun MG5090 Wet and Dry Multi Groomer",
+						"store": "Amazon",
+						"price": "4,899",
+						"reason": "Ultimate shaver + trimmer",
+						"source": "http://www.amazon.in/Braun-MG5090-Wet-Multi-Groomer/dp/B017LSXT2O/",
+						"image": "http://ecx.images-amazon.com/images/I/711wu7q1qHL._SL1500_.jpg"
+				}
     ]
 }
 
