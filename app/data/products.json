@@ -12,7 +12,7 @@
             "name": "Samsung 850 EVO 500GB 2.5-Inch SATA III Internal SSD (MZ-75E500B/AM)",
             "store": "Amazon",
             "price": "13,999",
-            "reason": "Highest rated",
+            "reason": "Highest customer ratings",
             "source": "http://www.amazon.in/dp/B00OBRE5UE/",
             "image": "http://ecx.images-amazon.com/images/I/71K15cYF8uL._SL1500_.jpg"
         },
@@ -36,7 +36,7 @@
             "name": "Good things take time framed art",
             "store": "Letternote",
             "price": "1,750",
-            "reason": "For your smart home",
+            "reason": "Remind this yourself everyday",
             "source": "https://www.letternote.in/products/good-things-take-time-framed-art",
             "image": "https://cdn.shopify.com/s/files/1/1021/0585/products/AP_goodthings_512x512.jpg"
         },
@@ -60,7 +60,7 @@
             "name": "Nikon AF-S DX Nikkor 35mm f/1.8G Prime Lens for Nikon Digital SLR Camera (Black)",
             "store": "Amazon",
             "price": "9,990",
-            "reason": "No brainer!",
+            "reason": "Ultimate value for money",
             "source": "http://www.amazon.in/Nikon-Nikkor-Prime-Digital-Camera/dp/B001S2PPT0/",
             "image": "http://ecx.images-amazon.com/images/I/41FtgQymFDL.jpg"
         },
@@ -81,20 +81,60 @@
             "image": "http://media.decathlon.in/192399/eliofeet-men-s-black-green.jpg"
         },
         {
-            "name": "Paaji Mousepad",
-            "store": "The Elephant Company",
-            "price": "299",
-            "reason": "Because Paaji",
-            "source": "http://www.theelephantcompany.com/tech-travel-accessories/mousepads/paaji-mousepad.html",
-            "image": "http://www.theelephantcompany.com/media/catalog/product/cache/1/image/1315x1319/9df78eab33525d08d6e5fb8d27136e95/i/m/img_0344_1.1477633932.jpg"
-        },
-        {
             "name": "Fuh Hip Flask",
             "store": "Happily Unmarried",
             "price": "849",
             "reason": "Because Fu*k everything",
             "source": "http://www.happilyunmarried.com/products/bar/fuh-fip-flask.html",
             "image": "https://d1x37q7rgyecq0.cloudfront.net/media/catalog/product/cache/1/thumbnail/804x/9df78eab33525d08d6e5fb8d27136e95/i/m/img_8733.jpg"
+        },
+        {
+            "name": "The March Tee",
+            "store": "The March Tee",
+            "price": "1,500",
+            "reason": "100% Supima Cotton",
+            "source": "https://www.marchtee.com/grey",
+            "image": "https://www.marchtee.com/Content/images/first-tee.jpg"
+        },
+        {
+            "name": "Moka Pot Espresso Brewer Kit",
+            "store": "The Flying Squirrel",
+            "price": "1,600",
+            "reason": "Amazing shots of espresso every morning",
+            "source": "https://www.flyingsquirrel.in/moka-pot-espresso-brewer-kit",
+            "image": "https://www.flyingsquirrel.in/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/m/o/moka_pot_espresso_kit_2_1.jpg"
+        },
+        {
+            "name": "MoMa MUJI Aluminum Fountain Pen",
+            "store": "Amazon",
+            "price": "2,732",
+            "reason": "Light, smooth & basic",
+            "source": "http://www.amazon.in/MoMa-MUJI-Aluminum-Fountain-Pen/dp/B00MDRZLHA/",
+            "image": "http://ecx.images-amazon.com/images/I/51kVaz73ZaL._SL1260_.jpg"
+        },
+        {
+            "name": "Google Chromecast 2 Media Streaming Device (Black)",
+            "store": "Flipkart",
+            "price": "3,399",
+            "reason": "Dumb to smart converter",
+            "source": "https://www.flipkart.com/google-chromecast-2-media-streaming-device/p/itmeh8vyyrgzymzq",
+            "image": "https://rukminim1.flixcart.com/image/832/832/selector-box/9/b/h/google-chromecast-2-original-imaemyhfaapzadpq.jpeg?q=70"
+        },
+        {
+            "name": "RAVPower 3-Port External Battery Pack Power Bank - 26800mAh",
+            "store": "Amazon",
+            "price": "6,884",
+            "reason": "Most Compact Portable Charger",
+            "source": "http://www.amazon.in/26800mAh-Portable-RAVPower-External-Technology/dp/B012NIQG5E",
+            "image": "http://ecx.images-amazon.com/images/I/51sKuMl0YkL._SL1000_.jpg"
+        },
+        {
+            "name": "Carpenter Watch Collection",
+            "store": "Analog Watch co",
+            "price": "10,019",
+            "reason": "Solid Pieces of Wood",
+            "source": "http://analogwatchco.com/leather-blackwood-wooden-timepiece",
+            "image": "https://static1.squarespace.com/static/51633bade4b03e4701a31f70/52edc0b1e4b0358dd4de9b25/5401492ee4b0a7034af9591b/1409370422731/l.jpg?format=1000w"
         }
     ]
 }

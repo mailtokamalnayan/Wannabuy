@@ -136,9 +136,18 @@ body {
   padding-top: 2rem;
   padding-bottom: 2rem;
   font-size: 0.8rem;
-}
-.site-footer a {
-  color: inherit;
+  &__inner {
+	  padding-top: 2rem;
+	  border-top: 1px solid #DEE2E6;
+	  img { margin-bottom: 0.5rem; }
+  }
+  a {
+	  color: inherit;
+	  transition: color 0.25s ease;
+	  &:hover {
+		  color: $theme-color;
+	  }
+  }
 }
 @media screen and (min-width: 768px) {
   .list { 
