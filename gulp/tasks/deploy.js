@@ -8,7 +8,9 @@ gulp.task('deploy', (done) => {
   gulp.src('./build/**/*')
   .pipe(ghPages({
      'remoteUrl' : 'git@github.com:mailtokamalnayan/wannabuy.git'
-  }))
+  })).on('end', () => {
+  	console.log('Deployed...')
+  })
 
   done();
 });
