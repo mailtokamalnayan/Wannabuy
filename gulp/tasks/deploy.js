@@ -5,7 +5,8 @@ import ghPages from 'gulp-gh-pages';
 
 gulp.task('deploy', (done) => {
 
-  gulp.src('./build/**/*')
+  return gulp.src('./build/**/*')
+
   .pipe(ghPages({
      'remoteUrl' : 'git@github.com:mailtokamalnayan/wannabuy.git'
   })).on('end', () => {
