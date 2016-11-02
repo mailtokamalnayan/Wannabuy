@@ -10,8 +10,9 @@ gulp.task('deploy', (done) => {
   .src('./build/**/*')
   .pipe(ghPages({
     'remoteUrl' : 'git@github.com:mailtokamalnayan/wannabuy.git'
-  }))
-  .pipe(exit())
+  })).on('end', () => {
+  	exit();
+  })
 
   done()
 });
