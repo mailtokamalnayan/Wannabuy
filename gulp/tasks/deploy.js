@@ -1,7 +1,7 @@
 'use strict';
 
 import gulp from 'gulp';
-import exit from 'gulp-exit'
+import gutil from 'gulp-util';
 import ghPages from 'gulp-gh-pages';
 
 gulp.task('deploy', (done) => {
@@ -11,7 +11,7 @@ gulp.task('deploy', (done) => {
   .pipe(ghPages({
     'remoteUrl' : 'git@github.com:mailtokamalnayan/wannabuy.git'
   })).on('end', () => {
-  	exit();
+  	gutil.log( gutil.colors.green('✓ File deployed - ctrl+c to exit') );
   })
 
   done()
