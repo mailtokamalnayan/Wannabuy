@@ -10,8 +10,8 @@ gulp.task('deploy', (done) => {
   .pipe(ghPages({
      'remoteUrl' : 'git@github.com:mailtokamalnayan/wannabuy.git'
   })).on('end', () => {
-  	console.log('Deployed...')
+  	done();
   })
 
-  done();
+  
 });
