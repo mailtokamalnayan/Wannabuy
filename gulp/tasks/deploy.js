@@ -12,7 +12,7 @@ export function deploy(done) {
     'remoteUrl' : 'git@github.com:mailtokamalnayan/wannabuy.git'
   }))
   .once('end', () => {
-  	gutil.log( gutil.colors.green('✓ File deployed - Hurray!') );
+  	gutil.log( gutil.colors.green('✓ Project deployed - Hurray!') );
   	done();
   	process.exit();
   });
