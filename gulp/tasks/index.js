@@ -13,6 +13,8 @@ import { fonts } from './fonts';
 import { rootfiles } from './rootfiles';
 import { serve } from './serve';
 import { watch } from './watch';
+import { fetch } from './fetch';
+import { sanitize } from './sanitize';
 
 // Define individual taks
 gulp.task(help);
@@ -25,6 +27,11 @@ gulp.task(rootfiles);
 gulp.task(images);
 gulp.task(serve);
 gulp.task(watch);
+
+gulp.task(
+	'sync',
+	gulp.series(fetch, sanitize)
+);
 
 // Define composite tasks
 gulp.task(

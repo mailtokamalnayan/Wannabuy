@@ -1,165 +1,183 @@
 {
     "products": [
-        {
-            "name": "Bose QuietComfort 20 Acoustic Noise Cancelling Headphones",
-            "store": "Amazon",
-            "price": "25,200",
-            "reason": "Wirecutter recommended",
-            "source": "http://www.amazon.in/dp/B00X9KV0HU",
-            "image": "http://ecx.images-amazon.com/images/I/6162wKNVC7L._SL1500_.jpg"
-        },
-        {
-            "name": "Samsung 850 EVO 500GB 2.5-Inch SATA III Internal SSD (MZ-75E500B/AM)",
-            "store": "Amazon",
-            "price": "13,999",
-            "reason": "Highest customer ratings",
-            "source": "http://www.amazon.in/dp/B00OBRE5UE/",
-            "image": "http://ecx.images-amazon.com/images/I/71K15cYF8uL._SL1500_.jpg"
-        },
-        {
-            "name": "Finding Love Wall Art",
-            "store": "Chumbak",
-            "price": "2,495",
-            "reason": "For the love birds",
-            "source": "https://www.chumbak.com/finding-love-wall-art/DzD8/",
-            "image": "https://media.chumbak.com/media/catalog/product/f/i/finding_love_wallart.png"
-        },
-        {
-            "name": "Decorative Elephants Wall Clock",
-            "store": "Chumbak",
-            "price": "1,295",
-            "reason": "Chumbak classic",
-            "source": "https://www.chumbak.com/decorative-elephants-wall-clock/nQRg/",
-            "image": "https://media.chumbak.com/media/catalog/product/8/9/8904218077255_main.jpg"
-        },
-        {
-            "name": "Good things take time framed art",
-            "store": "Letternote",
-            "price": "1,750",
-            "reason": "Remind this yourself everyday",
-            "source": "https://www.letternote.in/products/good-things-take-time-framed-art",
-            "image": "https://cdn.shopify.com/s/files/1/1021/0585/products/AP_goodthings_512x512.jpg"
-        },
-        {
-            "name": "Do Epic Shit Wallet",
-            "store": "Letternote",
-            "price": "795",
-            "reason": "Do epic shit",
-            "source": "https://www.letternote.in/collections/wallets-accessories/products/do-epic-shit-embossed-wallet",
-            "image": "https://cdn.shopify.com/s/files/1/1021/0585/products/do_epic_2_grande.jpg?v=1476263814"
-        },
-        {
-            "name": "UE ROLL 360 Wireless Bluetooth Speaker - Volcano",
-            "store": "Amazon",
-            "price": "6,500",
-            "reason": "Tried and tested",
-            "source": "http://www.amazon.in/UE-ROLL-Wireless-Bluetooth-Speaker/dp/B00YARCGHO/",
-            "image": "http://ecx.images-amazon.com/images/I/71N1iLb%2BheL._SL1200_.jpg"
-        },
-        {
-            "name": "Nikon AF-S DX Nikkor 35mm f/1.8G Prime Lens for Nikon Digital SLR Camera (Black)",
-            "store": "Amazon",
-            "price": "9,990",
-            "reason": "Ultimate value for money",
-            "source": "http://www.amazon.in/Nikon-Nikkor-Prime-Digital-Camera/dp/B001S2PPT0/",
-            "image": "http://ecx.images-amazon.com/images/I/41FtgQymFDL.jpg"
-        },
-        {
-            "name": "The Elements of Typographic Style: 4.0: 20th Anniversary Edition",
-            "store": "Amazon",
-            "price": "1,532",
-            "reason": "Classic",
-            "source": "http://www.amazon.in/gp/product/0881792128/",
-            "image": "http://ecx.images-amazon.com/images/I/41aX0fEkNwL._SX291_BO1,204,203,200_.jpg"
-        },
-        {
-            "name": "Eliofeet Men Running Shoes - Black Green",
-            "store": "Decathlon",
-            "price": "1,999",
-            "reason": "Almost perfect budget running shoes",
-            "source": "http://www.decathlon.in/p/8351744_eliofeet-men-s-black-green.html#/4914-272-uk_5_5_eu_39",
-            "image": "http://media.decathlon.in/192399/eliofeet-men-s-black-green.jpg"
-        },
-        {
-            "name": "Fuh Hip Flask",
-            "store": "Happily Unmarried",
-            "price": "849",
-            "reason": "Because Fu*k everything",
-            "source": "http://www.happilyunmarried.com/products/bar/fuh-fip-flask.html",
-            "image": "https://d1x37q7rgyecq0.cloudfront.net/media/catalog/product/cache/1/thumbnail/804x/9df78eab33525d08d6e5fb8d27136e95/i/m/img_8733.jpg"
-        },
-        {
-            "name": "The March Tee",
-            "store": "The March Tee",
-            "price": "1,500",
-            "reason": "100% Supima Cotton",
-            "source": "https://www.marchtee.com/grey",
-            "image": "https://www.marchtee.com/Content/images/first-tee.jpg"
-        },
-        {
-            "name": "Moka Pot Espresso Brewer Kit",
-            "store": "The Flying Squirrel",
-            "price": "1,600",
-            "reason": "Amazing shots of espresso every morning",
-            "source": "https://www.flyingsquirrel.in/moka-pot-espresso-brewer-kit",
-            "image": "https://www.flyingsquirrel.in/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/m/o/moka_pot_espresso_kit_2_1.jpg"
-        },
-        {
-            "name": "MoMa MUJI Aluminum Fountain Pen",
-            "store": "Amazon",
-            "price": "2,732",
-            "reason": "Light, smooth & basic",
-            "source": "http://www.amazon.in/MoMa-MUJI-Aluminum-Fountain-Pen/dp/B00MDRZLHA/",
-            "image": "http://ecx.images-amazon.com/images/I/51kVaz73ZaL._SL1260_.jpg"
-        },
-        {
-            "name": "Google Chromecast 2 Media Streaming Device (Black)",
-            "store": "Flipkart",
-            "price": "3,399",
-            "reason": "Dumb to smart converter",
-            "source": "https://www.flipkart.com/google-chromecast-2-media-streaming-device/p/itmeh8vyyrgzymzq",
-            "image": "https://rukminim1.flixcart.com/image/832/832/selector-box/9/b/h/google-chromecast-2-original-imaemyhfaapzadpq.jpeg?q=70"
-        },
-        {
-            "name": "RAVPower 3-Port External Battery Pack Power Bank - 26800mAh",
-            "store": "Amazon",
-            "price": "6,884",
-            "reason": "Most Compact Portable Charger",
-            "source": "http://www.amazon.in/26800mAh-Portable-RAVPower-External-Technology/dp/B012NIQG5E",
-            "image": "http://ecx.images-amazon.com/images/I/51sKuMl0YkL._SL1000_.jpg"
-        },
-        {
-            "name": "Carpenter Watch Collection",
-            "store": "Analog Watch co",
-            "price": "10,019",
-            "reason": "Solid Pieces of Wood",
-            "source": "http://analogwatchco.com/leather-blackwood-wooden-timepiece",
-            "image": "https://static1.squarespace.com/static/51633bade4b03e4701a31f70/52edc0b1e4b0358dd4de9b25/5401492ee4b0a7034af9591b/1409370422731/l.jpg?format=1000w"
-        },
-				{
-						"name": "que Bottle: The Fashionable & Collapsible Travel Bottle",
-						"store": "Kickstarter",
-						"price": "1,001",
-						"reason": "Unique spiral design",
-						"source": "https://www.kickstarter.com/projects/1024689211/que-bottle-the-fashionable-and-collapsible-travel",
-						"image": "https://ksr-ugc.imgix.net/assets/013/867/379/21cd225f3913fd2be1a25c4726684702_original.gif?w=680&fit=max&v=1474838626&q=92&s=13974f94bb8374979c799b2ea6092593"
-				},
-				{
-						"name": "Bodum Brazil Shatterproof 8-Cup French Press Coffee Maker",
-						"store": "Amazon",
-						"price": "1,838",
-						"reason": "heat-resistant, shatterproof SAN plastic beaker",
-						"source": "http://www.amazon.in/Bodum-Brazil-Shatterproof-French-Coffee/dp/B002UG46DO/",
-						"image": "http://ecx.images-amazon.com/images/I/61kupSu5F-L._SL1500_.jpg"
-				},
-				{
-						"name": "Braun MG5090 Wet and Dry Multi Groomer",
-						"store": "Amazon",
-						"price": "4,899",
-						"reason": "Ultimate shaver + trimmer",
-						"source": "http://www.amazon.in/Braun-MG5090-Wet-Multi-Groomer/dp/B017LSXT2O/",
-						"image": "http://ecx.images-amazon.com/images/I/711wu7q1qHL._SL1500_.jpg"
-				}
-    ]
+    {
+        "name": "Bose QuietComfort 20 Acoustic Noise Cancelling Headphones",
+        "reason": "Wirecutter recommended",
+        "price": "25,200",
+        "store": "Amazon",
+        "storeUrl": "http://www.amazon.in/",
+        "itemUrl": "http://www.amazon.in/dp/B00X9KV0HU",
+        "imageUrl": "http://ecx.images-amazon.com/images/I/6162wKNVC7L._SL1500_.jpg"
+    },
+    {
+        "name": "Samsung 850 EVO 500GB 2.5-Inch SATA III Internal SSD (MZ-75E500B/AM)",
+        "reason": "Highest customer ratings",
+        "price": "13,999",
+        "store": "Amazon",
+        "storeUrl": "",
+        "itemUrl": "http://www.amazon.in/dp/B00OBRE5UE/",
+        "imageUrl": "http://ecx.images-amazon.com/images/I/71K15cYF8uL._SL1500_.jpg"
+    },
+    {
+        "name": "Finding Love Wall Art",
+        "reason": "For the love birds",
+        "price": "2,495",
+        "store": "Chumbak",
+        "storeUrl": "",
+        "itemUrl": "https://www.chumbak.com/finding-love-wall-art/DzD8/",
+        "imageUrl": "https://media.chumbak.com/media/catalog/product/f/i/finding_love_wallart.png"
+    },
+    {
+        "name": "Decorative Elephants Wall Clock",
+        "reason": "Chumbak classic",
+        "price": "1,295",
+        "store": "Chumbak",
+        "storeUrl": "",
+        "itemUrl": "https://www.chumbak.com/decorative-elephants-wall-clock/nQRg/",
+        "imageUrl": "https://media.chumbak.com/media/catalog/product/8/9/8904218077255_main.jpg"
+    },
+    {
+        "name": "Good things take time framed art",
+        "reason": "Remind this yourself everyday",
+        "price": "1,750",
+        "store": "Letternote",
+        "storeUrl": "",
+        "itemUrl": "https://www.letternote.in/products/good-things-take-time-framed-art",
+        "imageUrl": "https://cdn.shopify.com/s/files/1/1021/0585/products/AP_goodthings_512x512.jpg"
+    },
+    {
+        "name": "Do Epic Shit Wallet",
+        "reason": "Do epic shit",
+        "price": "795",
+        "store": "Letternote",
+        "storeUrl": "",
+        "itemUrl": "https://www.letternote.in/collections/wallets-accessories/products/do-epic-shit-embossed-wallet",
+        "imageUrl": "https://cdn.shopify.com/s/files/1/1021/0585/products/do_epic_2_grande.jpg?v=1476263814"
+    },
+    {
+        "name": "UE ROLL 360 Wireless Bluetooth Speaker - Volcano",
+        "reason": "Tried and tested",
+        "price": "6,500",
+        "store": "Amazon",
+        "storeUrl": "",
+        "itemUrl": "http://www.amazon.in/UE-ROLL-Wireless-Bluetooth-Speaker/dp/B00YARCGHO/",
+        "imageUrl": "http://ecx.images-amazon.com/images/I/71N1iLb%2BheL._SL1200_.jpeg"
+    },
+    {
+        "name": "Nikon AF-S DX Nikkor 35mm f/1.8G Prime Lens for Nikon Digital SLR Camera (Black)",
+        "reason": "Ultimate value for money",
+        "price": "9,990",
+        "store": "Amazon",
+        "storeUrl": "",
+        "itemUrl": "http://www.amazon.in/Nikon-Nikkor-Prime-Digital-Camera/dp/B001S2PPT0/",
+        "imageUrl": "http://ecx.images-amazon.com/images/I/41FtgQymFDL.jpeg"
+    },
+    {
+        "name": "The Elements of Typographic Style: 4.0: 20th Anniversary Edition",
+        "reason": "Classic",
+        "price": "1,532",
+        "store": "Amazon",
+        "storeUrl": "",
+        "itemUrl": "http://www.amazon.in/gp/product/0881792128/",
+        "imageUrl": "http://ecx.images-amazon.com/images/I/41aX0fEkNwL._SX291_BO1,204,203,200_.jpg"
+    },
+    {
+        "name": "Eliofeet Men Running Shoes - Black Green",
+        "reason": "Almost perfect budget running shoes",
+        "price": "1,999",
+        "store": "Decathlon",
+        "storeUrl": "",
+        "itemUrl": "http://www.decathlon.in/p/8351744_eliofeet-men-s-black-green.html#/4914-272-uk_5_5_eu_39",
+        "imageUrl": "http://media.decathlon.in/192399/eliofeet-men-s-black-green.jpg"
+    },
+    {
+        "name": "Fuh Hip Flask",
+        "reason": "Because Fu*k everything",
+        "price": "849",
+        "store": "Happily Unmarried",
+        "storeUrl": "",
+        "itemUrl": "http://www.happilyunmarried.com/products/bar/fuh-fip-flask.html",
+        "imageUrl": "https://d1x37q7rgyecq0.cloudfront.net/media/catalog/product/cache/1/thumbnail/804x/9df78eab33525d08d6e5fb8d27136e95/i/m/img_8733.jpg"
+    },
+    {
+        "name": "The March Tee",
+        "reason": "100% Supima Cotton",
+        "price": "1,500",
+        "store": "The March Tee",
+        "storeUrl": "",
+        "itemUrl": "https://www.marchtee.com/grey",
+        "imageUrl": "https://www.marchtee.com/Content/images/first-tee.jpg"
+    },
+    {
+        "name": "Moka Pot Espresso Brewer Kit",
+        "reason": "Amazing shots of espresso every morning",
+        "price": "1,600",
+        "store": "The Flying Squirrel",
+        "storeUrl": "",
+        "itemUrl": "https://www.flyingsquirrel.in/moka-pot-espresso-brewer-kit",
+        "imageUrl": "https://www.flyingsquirrel.in/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/m/o/moka_pot_espresso_kit_2_1.jpg"
+    },
+    {
+        "name": "MoMa MUJI Aluminum Fountain Pen",
+        "reason": "Light, smooth & basic",
+        "price": "2,732",
+        "store": "Amazon",
+        "storeUrl": "",
+        "itemUrl": "http://www.amazon.in/MoMa-MUJI-Aluminum-Fountain-Pen/dp/B00MDRZLHA/",
+        "imageUrl": "http://ecx.images-amazon.com/images/I/51kVaz73ZaL._SL1260_.jpg"
+    },
+    {
+        "name": "Google Chromecast 2 Media Streaming Device (Black)",
+        "reason": "Dumb to smart converter",
+        "price": "3,399",
+        "store": "Flipkart",
+        "storeUrl": "",
+        "itemUrl": "https://www.flipkart.com/google-chromecast-2-media-streaming-device/p/itmeh8vyyrgzymzq",
+        "imageUrl": "https://rukminim1.flixcart.com/image/832/832/selector-box/9/b/h/google-chromecast-2-original-imaemyhfaapzadpq.jpeg?q=70"
+    },
+    {
+        "name": "RAVPower 3-Port External Battery Pack Power Bank - 26800mAh",
+        "reason": "Most Compact Portable Charger",
+        "price": "6,884",
+        "store": "Amazon",
+        "storeUrl": "",
+        "itemUrl": "http://www.amazon.in/26800mAh-Portable-RAVPower-External-Technology/dp/B012NIQG5E",
+        "imageUrl": "http://ecx.images-amazon.com/images/I/51sKuMl0YkL._SL1000_.jpg"
+    },
+    {
+        "name": "Carpenter Watch Collection",
+        "reason": "Solid Pieces of Wood",
+        "price": "10,019",
+        "store": "Analog Watch co",
+        "storeUrl": "",
+        "itemUrl": "http://analogwatchco.com/leather-blackwood-wooden-timepiece",
+        "imageUrl": "https://static1.squarespace.com/static/51633bade4b03e4701a31f70/52edc0b1e4b0358dd4de9b25/5401492ee4b0a7034af9591b/1409370422731/l.jpg?format=1000w"
+    },
+    {
+        "name": "que Bottle: The Fashionable & Collapsible Travel Bottle",
+        "reason": "Unique spiral design",
+        "price": "1,001",
+        "store": "Kickstarter",
+        "storeUrl": "",
+        "itemUrl": "https://www.kickstarter.com/projects/1024689211/que-bottle-the-fashionable-and-collapsible-travel",
+        "imageUrl": "https://ksr-ugc.imgix.net/assets/013/867/379/21cd225f3913fd2be1a25c4726684702_original.gif?w=680&fit=max&v=1474838626&q=92&s=13974f94bb8374979c799b2ea6092593"
+    },
+    {
+        "name": "Bodum Brazil Shatterproof 8-Cup French Press Coffee Maker",
+        "reason": "heat-resistant, shatterproof SAN plastic beaker",
+        "price": "1,838",
+        "store": "Amazon",
+        "storeUrl": "",
+        "itemUrl": "http://www.amazon.in/Bodum-Brazil-Shatterproof-French-Coffee/dp/B002UG46DO/",
+        "imageUrl": "http://ecx.images-amazon.com/images/I/61kupSu5F-L._SL1500_.jpg"
+    },
+    {
+        "name": "Braun MG5090 Wet and Dry Multi Groomer",
+        "reason": "Ultimate shaver + trimmer",
+        "price": "4,899",
+        "store": "Amazon",
+        "storeUrl": "",
+        "itemUrl": "http://www.amazon.in/Braun-MG5090-Wet-Multi-Groomer/dp/B017LSXT2O/",
+        "imageUrl": "http://ecx.images-amazon.com/images/I/711wu7q1qHL._SL1500_.jpg"
+    }]
 }
-
