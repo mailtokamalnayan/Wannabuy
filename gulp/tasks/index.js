@@ -15,6 +15,7 @@ import { serve } from './serve';
 import { watch } from './watch';
 import { fetch } from './fetch';
 import { sanitize } from './sanitize';
+import { deploy } from './deploy';
 
 // Define individual taks
 gulp.task(help);
@@ -27,6 +28,7 @@ gulp.task(rootfiles);
 gulp.task(images);
 gulp.task(serve);
 gulp.task(watch);
+gulp.task(deploy);
 
 gulp.task(
 	'sync',
