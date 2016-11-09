@@ -21,5 +21,6 @@ export function help(done) {
   setTimeout(( () => {
     console.log(help);
     done();
+    process.exit();
   }), 100);
 }
