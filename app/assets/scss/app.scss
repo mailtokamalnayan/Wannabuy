@@ -233,12 +233,12 @@ body {
   }
 }
 @media screen and (min-width: 768px) {
-  .list-item {
-    width: calc(33.33% - 1em) !important;
+  .list .list-item {
+    width: calc(33.33% - 1em);
   }
 }
 @media screen and (min-width: 1280px) {
-  .list-item {
-    width: calc(25% - 0.75em) !important;
+  .list .list-item {
+    width: calc(25% - 0.75em);
   }
 }
