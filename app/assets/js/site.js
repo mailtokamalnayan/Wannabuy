@@ -1,15 +1,10 @@
 'use strict';
 
-import $ from 'jquery';
-import jQuery from 'jquery';
+import Tracker from './modules/Tracker';
+import Unveiler from './modules/Unveiler';
 
-import unveil from './plugins/unveil';
+// GA Event Tracking
+Tracker.track();
 
-
-$(document).ready(() => {
-  $(".list-item-article figure img").unveil(100, function() {
-    $(this).on('load', function() {
-      this.style.opacity = 1;
-    });
-  });
-});
+// Lazy Load Images
+document.addEventListener('DOMContentLoaded', Unveiler.unveil(), false);
