@@ -5,7 +5,7 @@ description: Soochi is a list of well designed products.
 
 {{#extend "master"}}
 {{#content "body"}}
-			
+
 			<section class="list-container container">
 				<ul class="list">
 
@@ -15,7 +15,7 @@ description: Soochi is a list of well designed products.
 							<li class="list-item">
 								<a href="{{itemUrl}}" title="{{name}} - {{reason}}" target="_blank">
 									<article class="list-item-article">
-										<figure>
+										<figure class="image-loading">
 											<img data-src="{{imageUrl}}" src="/images/loader.svg" alt="" />
 											<noscript>
 												<img src="{{imageUrl}}" />
@@ -36,6 +36,6 @@ description: Soochi is a list of well designed products.
 
 				</ul>
 			</section>
-  
+
 {{/content}}
 {{/extend}}

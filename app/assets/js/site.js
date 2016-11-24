@@ -1,4 +1,4 @@
-'use strict';
+
 
 import Tracker from './modules/Tracker';
 import Unveiler from './modules/Unveiler';
