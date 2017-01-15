@@ -12,24 +12,38 @@ description: Soochi is a list of well designed products.
 				{{#with products}}
 				  {{#each products}}
 
-							<li class="list-item">
-								<a href="{{itemUrl}}" title="{{name}} - {{reason}}" target="_blank">
-									<article class="list-item-article">
-										<figure class="image-loading">
-											<img data-src="{{imageUrl}}" src="/images/loader.svg" alt="" />
-											<noscript>
-												<img src="{{imageUrl}}" />
-											</noscript>
-										</figure>
-										<header>
-											<h3 class="store-name">{{store}}</h3>
-											<h1 class="product-name">{{name}}</h1>
-											<h2 class="price">₹ {{price}}</h2>
-											<h4 class="reason">{{reason}}</h4>
-										</header>
-									</article>
-								</a>
-							</li>
+					<li class="list-item">
+						{{!-- Product --}}
+						<a 
+							href="{{itemUrl}}" 
+							title="{{name}} - {{reason}}" 
+							target="_blank"
+							class="list-item__link">
+							<article class="list-item-article">
+								{{!-- Product Image --}}
+								<figure class="image-loading">
+									<img 
+										data-src="{{imageUrl}}" 
+										src="/images/loader.svg" 
+										alt="{{name}}" 
+										class="list-item__image" />
+									<noscript>
+										<img src="{{imageUrl}}" />
+									</noscript>
+								</figure>
+								{{!-- Product Meta --}}
+								<header>
+									<h3 class="store-name">{{store}}</h3>
+									<h1 class="product-name">{{name}}</h1>
+									<h2 class="price">₹ {{price}}</h2>
+								</header>
+							</article>
+						</a>
+						{{!-- Reason --}}
+						<a href="" target="_blank" class="reason truncate">
+							{{reason}}
+						</a>
+					</li>
 
 				  {{/each}}
 				{{/with}}

@@ -2,6 +2,10 @@
 @import 'base/variables';
 @import 'base/helpers';
 
+*, *:before, *:after {
+  box-sizing: border-box;
+}
+
 body {
 	font-family: -apple-system,BlinkMacSystemFont,"Helvetica Neue",sans-serif;
 	background-color: #F1F3F5;
@@ -66,19 +70,19 @@ body {
 			margin-left: 5px;
 		}
   }
-}
-.list-item a {
-  display: block;
-  background-color: #fff;
-  padding: 1rem;
-  text-decoration: none;
-}
-.list-item a img {
-  max-width: 100%;
-  height: auto;
-  max-height: 180px;
-  transition: all 0.25s ease-in;
-  opacity: 0;
+  &__link {
+  	display: block;
+  	background-color: #fff;
+  	padding: 1rem;
+  	text-decoration: none;
+  }
+  &__image {
+  	max-width: 100%;
+  	height: auto;
+  	max-height: 180px;
+  	transition: all 0.25s ease-in;
+  	opacity: 0;
+  }
 }
 .list-item-article h1 {
   font-size: 0.9rem;
@@ -118,23 +122,22 @@ body {
 		}
 	}
 	header { margin-top: 1rem; }
-	.reason {
-		font-size: 0.9rem;
-		margin: 0;
-		margin-top: 0.75rem;
-		font-style: italic;
-		font-weight: normal;
-		color: $secondary-color;
-		position: relative;
-		border-top: 1px solid dashed #E9ECEF;
-		padding-top: 0.75rem;
-		font-family: Georgia, sans-serif;
-		line-height: 1.2;
-		@extend  .truncate;
-		&:before {
-			content:'“ ';
-			font-family: Arial, sans-serif;
-		}
+}
+.reason {
+	font-size: 0.9rem;
+	font-style: italic;
+	color: $secondary-color;
+	position: relative;
+	border-top: 1px solid dashed #E9ECEF;
+	padding: 0.75rem 1rem;
+	font-family: Georgia, sans-serif;
+	background-color: #fff;
+	display: block;
+	text-decoration: none;
+	&:hover { text-decoration: underline; }
+	&:before {
+		content:'“ ';
+		font-family: Arial, sans-serif;
 	}
 }
 .site-footer {
