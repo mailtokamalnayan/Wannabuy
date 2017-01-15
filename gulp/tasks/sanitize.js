@@ -23,6 +23,7 @@ export function sanitize(done) {
         products[i]['storeUrl'] = rows[i]['storeurl'];
         products[i]['itemUrl'] = rows[i]['itemurl'];
         products[i]['imageUrl'] = rows[i]['imageurl'];
+        products[i]['reasonUrl'] = rows[i]['reasonurl'];
       }
       
       return root = {

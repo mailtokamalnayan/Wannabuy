@@ -1,22 +1,24 @@
 {
     "products": [
     {
-        "name": "UE ROLL 360 Wireless Bluetooth Speaker - Volcano",
-        "reason": "Tried and tested",
+        "name": "The Best Portable Bluetooth Speaker",
+        "reason": "Personally tried and tested",
         "price": "8,399",
         "store": "Amazon",
         "storeUrl": "",
         "itemUrl": "http://www.amazon.in/UE-Atmosphere-Wireless-Bluetooth-Waterproof/dp/B01FFV59PY/ref=dp_ob_title_ce",
-        "imageUrl": "http://ecx.images-amazon.com/images/I/915biSyuCOL._SL1500_.jpg"
+        "imageUrl": "http://ecx.images-amazon.com/images/I/915biSyuCOL._SL1500_.jpg",
+        "reasonUrl": "http://thewirecutter.com/reviews/best-bluetooth-speaker/"
     },
     {
         "name": "Sennheiser CX 180 Street II In-Ear Headphone (Black)",
-        "reason": "4.5 star rating from 12,273 customer reviews  ",
+        "reason": "4.5/5, from 12.5K+ customer reviews  ",
         "price": "809",
         "store": "Amazon",
         "storeUrl": "",
         "itemUrl": "http://www.amazon.in/Sennheiser-CX-180-Street-II/dp/B00D75AB6I/ref=sr_1_1?ie=UTF8&qid=1479221761&sr=8-1&keywords=Sennheiser",
-        "imageUrl": "http://ecx.images-amazon.com/images/I/61x3vTYCBuL._SX522_.jpg"
+        "imageUrl": "http://ecx.images-amazon.com/images/I/61x3vTYCBuL._SX522_.jpg",
+        "reasonUrl": "http://www.amazon.in/Sennheiser-CX-180-Street-II/product-reviews/B00D75AB6I/ref=dpx_acr_txt?showViewpoints=1"
     },
     {
         "name": "JayBird X2 Sport Wireless Bluetooth Headphones (Midnight Black)",
@@ -25,7 +27,8 @@
         "store": "Amazon",
         "storeUrl": "",
         "itemUrl": "http://www.amazon.in/JayBird-Wireless-Bluetooth-Headphones-Midnight/dp/B013HSW4SM/ref=sr_1_1?",
-        "imageUrl": "http://ecx.images-amazon.com/images/I/61N99rhpZ-L._SL1500_.jpg"
+        "imageUrl": "http://ecx.images-amazon.com/images/I/61N99rhpZ-L._SL1500_.jpg",
+        "reasonUrl": "https://www.google.co.in/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0ahUKEwiMluOa1sTRAhVEQI8KHfZID-MQtwIILjAA&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DLObJOc5u7sY&usg=AFQjCNFHmZMk4VNMbJMrjSqwbxNahHUk6A&sig2=y3So_e1SfVLw24Qh7Oud7A&bvm=bv.144224172,d.c2I"
     },
     {
         "name": "Bose QuietComfort-35 Wireless Headphones (Black)",
@@ -34,7 +37,8 @@
         "store": "Amazon",
         "storeUrl": "",
         "itemUrl": "http://www.amazon.in/Bose-QuietComfort-35-Wireless-Headphones-Black/dp/B01E3SNO1G/ref=dp_ob_title_ce",
-        "imageUrl": "http://ecx.images-amazon.com/images/I/61QwytXOcxL._SL1500_.jpg"
+        "imageUrl": "http://ecx.images-amazon.com/images/I/61QwytXOcxL._SL1500_.jpg",
+        "reasonUrl": "http://www.theverge.com/2016/6/22/12003094/bose-quietcomfort-35-headphones-review-bluetooth-wireless-noise-canceling"
     },
     {
         "name": "TCA iPhone 6 0.3mm Ultrathin Frosted Matte Pack of 2 Case Cover for iPhone 6 / iPhone 6S 4.7 (Black + Sky Blue) + Eject Pin",
@@ -43,34 +47,38 @@
         "store": "Amazon",
         "storeUrl": "",
         "itemUrl": "http://www.amazon.in/TCA-iPhone-0-3mm-Ultrathin-Frosted/dp/B00YFXI974",
-        "imageUrl": "http://ecx.images-amazon.com/images/I/61hjKzuyzVL._SL1296_.jpg"
+        "imageUrl": "http://ecx.images-amazon.com/images/I/61hjKzuyzVL._SL1296_.jpg",
+        "reasonUrl": "https://twitter.com/hvpandya/status/798386123722485760"
     },
     {
         "name": "[Apple MFI Certified] Jackery Bolt 6,000 mAh Ultra-Compact External Battery Charger, Portable Power Bank and Travel Charger with Built-in-Lightning & Micro USB Cables (Black)",
-        "reason": "4 star 125 reviews",
+        "reason": "4.3 star from 200+ reviews",
         "price": "5,013.06",
         "store": "Amazon",
         "storeUrl": "",
         "itemUrl": "http://www.amazon.in/Certified-Jackery-Ultra-Compact-External-Lightning/dp/B01A6L85CC/ref=sr_1_1?ie=UTF8&qid=1479223128&sr=8-1&keywords=Jackery+Bolt",
-        "imageUrl": "http://ecx.images-amazon.com/images/I/612mB7B2vcL._SX522_.jpg"
+        "imageUrl": "http://ecx.images-amazon.com/images/I/612mB7B2vcL._SX522_.jpg",
+        "reasonUrl": "https://www.amazon.com/Certified-Jackery-Ultra-Compact-External-Lightning/product-reviews/B01A6L85CC/ref=cm_cr_dp_see_all_summary?ie=UTF8&reviewerType=avp_only_reviews&showViewpoints=1&sortBy=helpful"
     },
     {
         "name": "Anker PowerLine 3-feet Lightning Cable for Apple iPhones, iPads and iPods (Space Grey)",
-        "reason": "4 .5 star from 1860 reviews",
+        "reason": "4 .5 star from 2K+ reviews",
         "price": "999",
         "store": "Amazon",
         "storeUrl": "",
         "itemUrl": "http://www.amazon.in/Anker-PowerLine-3-feet-Lightning-iPhones/dp/B011KOQ8HS/ref=sr_1_1?ie=UTF8&qid=1479223212&sr=8-1&keywords=Anker+PowerLine+Lightning",
-        "imageUrl": "http://ecx.images-amazon.com/images/I/31DsVhMn1jL.jpg"
+        "imageUrl": "http://ecx.images-amazon.com/images/I/31DsVhMn1jL.jpg",
+        "reasonUrl": "http://www.amazon.in/product-reviews/B011KOQ8HS/ref=acr_dpx_see_all?ie=UTF8&showViewpoints=1"
     },
     {
         "name": "TuneBand for iPhone 6, Premium Sports Armband with Two Straps and Two Screen Protectors (BLACK)",
-        "reason": "4.5 star from 242 ratings",
+        "reason": "4.5 star from 250+ ratings",
         "price": "3,224",
         "store": "Amazon",
         "storeUrl": "",
         "itemUrl": "http://www.amazon.in/TuneBand-iPhone-Premium-Armband-Protectors/dp/B00PCJYO3S/ref=sr_1_1?ie=UTF8&qid=1479223361&sr=8-1&keywords=Tuneband",
-        "imageUrl": "http://ecx.images-amazon.com/images/I/81RN0MsoOjL._SX522_.jpg"
+        "imageUrl": "http://ecx.images-amazon.com/images/I/81RN0MsoOjL._SX522_.jpg",
+        "reasonUrl": "https://www.amazon.com/TuneBand-iPhone-Premium-Armband-Protectors/product-reviews/B00PCJYO3S/ref=cm_cr_dp_see_all_summary?ie=UTF8&reviewerType=avp_only_reviews&showViewpoints=1&sortBy=helpful"
     },
     {
         "name": "RAVPower 3-Port External Battery Pack Power Bank - 26800mAh",
@@ -79,7 +87,8 @@
         "store": "Amazon",
         "storeUrl": "",
         "itemUrl": "http://www.amazon.in/26800mAh-Portable-RAVPower-External-Technology/dp/B012NIQG5E",
-        "imageUrl": "http://ecx.images-amazon.com/images/I/51sKuMl0YkL._SL1000_.jpg"
+        "imageUrl": "http://ecx.images-amazon.com/images/I/51sKuMl0YkL._SL1000_.jpg",
+        "reasonUrl": "https://www.amazon.com/Portable-RAVPower-Technology-Smartphones-More-Black/product-reviews/B012NIQG5E/ref=cm_cr_dp_see_all_summary?ie=UTF8&reviewerType=avp_only_reviews&showViewpoints=1&sortBy=helpful"
     },
     {
         "name": "Google Chromecast 2 Media Streaming Device (Black)",
@@ -88,7 +97,18 @@
         "store": "Flipkart",
         "storeUrl": "",
         "itemUrl": "https://www.flipkart.com/google-chromecast-2-media-streaming-device/p/itmeh8vyyrgzymzq",
-        "imageUrl": "https://rukminim1.flixcart.com/image/832/832/selector-box/9/b/h/google-chromecast-2-original-imaemyhfaapzadpq.jpeg?q=70"
+        "imageUrl": "https://rukminim1.flixcart.com/image/832/832/selector-box/9/b/h/google-chromecast-2-original-imaemyhfaapzadpq.jpeg?q=70",
+        "reasonUrl": "https://www.flipkart.com/google-chromecast-2-media-streaming-device/product-reviews/itmeh8vyyrgzymzq?pid=SELEH8VYQRNA99BH"
+    },
+    {
+        "name": "Kindle Paperwhite, 6\" High Resolution Display (300 ppi) with Built-in Light, Wi-Fi",
+        "reason": "Next-generation reading experience",
+        "price": "10,999",
+        "store": "Amazon",
+        "storeUrl": "",
+        "itemUrl": "http://www.amazon.in/gp/product/B00QJDOEAO/",
+        "imageUrl": "http://ecx.images-amazon.com/images/I/61shyF063PL._SL1000_.jpg",
+        "reasonUrl": "http://thewirecutter.com/reviews/amazon-kindle-is-the-best-ebook-reader/"
     },
     {
         "name": "GoPro Hero 4 Adventure Edition (Silver) Action Camera",
@@ -97,7 +117,8 @@
         "store": "Amazon",
         "storeUrl": "",
         "itemUrl": "http://www.amazon.in/GoPro-Adventure-Silver-Action-Camera/dp/B00O1XRT9W/ref=sr_1_1?ie=UTF8&qid=1479225621&sr=8-1&keywords=Hero4+Silver",
-        "imageUrl": "http://ecx.images-amazon.com/images/I/71649Vf%2B2dL._SL1500_.jpg"
+        "imageUrl": "http://ecx.images-amazon.com/images/I/71649Vf%2B2dL._SL1500_.jpg",
+        "reasonUrl": "http://thewirecutter.com/reviews/best-action-camera/"
     },
     {
         "name": "Nikon AF-S DX Nikkor 35mm f/1.8G Prime Lens for Nikon Digital SLR Camera (Black)",
@@ -106,52 +127,58 @@
         "store": "Amazon",
         "storeUrl": "",
         "itemUrl": "http://www.amazon.in/Nikon-Nikkor-Prime-Digital-Camera/dp/B001S2PPT0/",
-        "imageUrl": "http://ecx.images-amazon.com/images/I/41FtgQymFDL.jpg"
+        "imageUrl": "http://ecx.images-amazon.com/images/I/41FtgQymFDL.jpg",
+        "reasonUrl": "http://thewirecutter.com/reviews/the-first-nikon-lenses-you-should-buy/"
     },
     {
         "name": "Samsung 850 EVO 500GB 2.5-Inch SATA III Internal SSD (MZ-75E500B/AM)",
-        "reason": "Highest customer ratings",
+        "reason": "Highest customer ratings in the category (4.8/5)",
         "price": "13,999",
         "store": "Amazon",
         "storeUrl": "",
         "itemUrl": "http://www.amazon.in/dp/B00OBRE5UE/",
-        "imageUrl": "http://ecx.images-amazon.com/images/I/71K15cYF8uL._SL1500_.jpg"
+        "imageUrl": "http://ecx.images-amazon.com/images/I/71K15cYF8uL._SL1500_.jpg",
+        "reasonUrl": "https://www.amazon.com/Samsung-2-5-Inch-Internal-MZ-75E500B-AM/product-reviews/B00OBRE5UE/ref=cm_cr_dp_see_all_summary?ie=UTF8&reviewerType=avp_only_reviews&showViewpoints=1&sortBy=helpful"
     },
     {
         "name": "Fujitsu ScanSnap S1300i Mobile Document Scanner",
-        "reason": "4.5 from  1,445 customer reviews",
+        "reason": "4.5 from  1.5K+ reviews (Bestseller)",
         "price": "23,499.00",
         "store": "Amazon",
         "storeUrl": "",
         "itemUrl": "http://www.amazon.in/Fujitsu-PA03643-B005-ScanSnap-S1300i-Scanner/dp/B008HBFADQ/ref=sr_1_1?ie=UTF8&qid=1479223774&sr=8-1&keywords=Fujitsu+ScanSnap",
-        "imageUrl": "http://ecx.images-amazon.com/images/I/31DLmAXPNHL.jpg"
+        "imageUrl": "http://ecx.images-amazon.com/images/I/31DLmAXPNHL.jpg",
+        "reasonUrl": "https://www.amazon.com/Fujitsu-ScanSnap-S1300i-Document-Scanner/product-reviews/B008HBFADQ/ref=cm_cr_dp_see_all_summary?ie=UTF8&reviewerType=avp_only_reviews&showViewpoints=1&sortBy=helpful"
     },
     {
         "name": "Microsoft 5KV-00001 Sculpt Ergonomic Wired Keyboard for Business",
-        "reason": "4.5, 1000 reviews",
+        "reason": "4.5/5, from 1K+ reviews",
         "price": "9,870",
         "store": "Amazon",
         "storeUrl": "",
         "itemUrl": "http://www.amazon.in/Microsoft-5KV-00001-Ergonomic-Keyboard-Business/dp/B00CYX26BC/ref=sr_1_1?ie=UTF8&qid=1479223835&sr=8-1&keywords=+Microsoft+Sculpt+Ergo",
-        "imageUrl": "http://ecx.images-amazon.com/images/I/31RW0P%2ByDGL.jpg"
+        "imageUrl": "http://ecx.images-amazon.com/images/I/31RW0P%2ByDGL.jpg",
+        "reasonUrl": "https://www.amazon.com/Microsoft-Ergonomic-Keyboard-Business-5KV-00001/product-reviews/B00CYX26BC/ref=cm_cr_dp_see_all_summary?ie=UTF8&reviewerType=avp_only_reviews&showViewpoints=1&sortBy=helpful"
     },
     {
         "name": "Logitech Wireless Marathon Mouse M705",
-        "reason": "4.6 stars from 2K + reviews",
+        "reason": "4.6/5, from 2K + reviews",
         "price": "4,199",
         "store": "Amazon",
         "storeUrl": "",
         "itemUrl": "http://www.amazon.in/Logitech-Wireless-Marathon-Battery-910-001935/dp/B003TG75EG/ref=sr_1_1?ie=UTF8&qid=1479224003&sr=8-1&keywords=+Logitech+Marathon+Mouse+M705",
-        "imageUrl": "http://ecx.images-amazon.com/images/I/71NUe83tq9L._SX522_.jpg"
+        "imageUrl": "http://ecx.images-amazon.com/images/I/71NUe83tq9L._SX522_.jpg",
+        "reasonUrl": "https://www.amazon.com/Logitech-Wireless-Marathon-3-year-Battery/product-reviews/B003TG75EG/ref=cm_cr_dp_see_all_summary?ie=UTF8&reviewerType=avp_only_reviews&showViewpoints=1&sortBy=helpful"
     },
     {
         "name": "Estwing E3-16C Claw Hammers Metal Handle",
-        "reason": "5 star from 74 reviews",
+        "reason": "4.8/5, from 75+ reviews",
         "price": "5,159",
         "store": "Amazon",
         "storeUrl": "",
         "itemUrl": "http://www.amazon.in/Estwing-E3-16C-Hammers-Metal-Handle/dp/B00002N5NA/ref=sr_1_1?ie=UTF8&qid=1479223912&sr=8-1&keywords=Estwing+E3-16C",
-        "imageUrl": "http://ecx.images-amazon.com/images/I/61onlEXSlBS._SY679_.jpg"
+        "imageUrl": "http://ecx.images-amazon.com/images/I/61onlEXSlBS._SY679_.jpg",
+        "reasonUrl": "https://www.amazon.com/Estwing-E3-16C-Curved-Hammer-Reduction/product-reviews/B00002N5NA/ref=cm_cr_dp_see_all_summary?ie=UTF8&reviewerType=avp_only_reviews&showViewpoints=1&sortBy=helpful"
     },
     {
         "name": "Hamilton Beach 46201 12 Cup Digital Coffeemaker, Stainless Steel",
@@ -160,7 +187,8 @@
         "store": "Amazon",
         "storeUrl": "",
         "itemUrl": "http://www.amazon.in/dp/B0041A5H5S/?tag=swthm-21&linkCode=xm2&ascsubtag=SH41238",
-        "imageUrl": "http://ecx.images-amazon.com/images/I/81zfoZ4AxzL._SL1500_.jpg"
+        "imageUrl": "http://ecx.images-amazon.com/images/I/81zfoZ4AxzL._SL1500_.jpg",
+        "reasonUrl": "https://www.amazon.com/Hamilton-Beach-Digital-Stainless-46201/product-reviews/B0041A5H5S/ref=cm_cr_dp_see_all_summary?ie=UTF8&reviewerType=avp_only_reviews&showViewpoints=1&sortBy=helpful"
     },
     {
         "name": "Victorinox Swiss Classic Paring Knife",
@@ -169,16 +197,8 @@
         "store": "Amazon",
         "storeUrl": "",
         "itemUrl": "http://www.amazon.in/Victorinox-Swiss-Classic-Paring-Knife/dp/B000WLDOXM/ref=sr_1_fkmr0_1?ie=UTF8&qid=1479224611&sr=8-1-fkmr0&keywords=Victorinox+3%C2%BC-Inch+Paring+Knife",
-        "imageUrl": "http://ecx.images-amazon.com/images/I/51U2lPf3KoL._SL1181_.jpg"
-    },
-    {
-        "name": "Hamilton Beach 33464 Set and Forget Programmable Slow Cooker 6-Quart Silver",
-        "reason": "Good performance for a great price",
-        "price": "4,840",
-        "store": "Amazon",
-        "storeUrl": "",
-        "itemUrl": "http://www.amazon.in/Hamilton-Beach-33464-Programmable-6-Quart/dp/B00GMF6IOE/ref=sr_1_2?ie=UTF8&qid=1479224657&sr=8-2&keywords=Hamilton+Beach+Set+%26+Forget+6-Quart+Programmable+Slow+Cooker",
-        "imageUrl": "http://ecx.images-amazon.com/images/I/81tAcd70fML._SL1500_.jpg"
+        "imageUrl": "http://ecx.images-amazon.com/images/I/51U2lPf3KoL._SL1181_.jpg",
+        "reasonUrl": "http://www.amazon.in/Victorinox-Swiss-Classic-Paring-Knife/product-reviews/B000WLDOXM/ref=dpx_acr_txt?showViewpoints=1"
     },
     {
         "name": "Moka Pot Espresso Brewer Kit",
@@ -187,7 +207,8 @@
         "store": "The Flying Squirrel",
         "storeUrl": "",
         "itemUrl": "https://www.flyingsquirrel.in/moka-pot-espresso-brewer-kit",
-        "imageUrl": "https://www.flyingsquirrel.in/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/m/o/moka_pot_espresso_kit_2_1.jpg"
+        "imageUrl": "https://www.flyingsquirrel.in/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/m/o/moka_pot_espresso_kit_2_1.jpg",
+        "reasonUrl": "https://www.flyingsquirrel.in/moka-pot-espresso-brewer-kit"
     },
     {
         "name": "Bodum Brazil Shatterproof 8-Cup French Press Coffee Maker",
@@ -196,7 +217,8 @@
         "store": "Amazon",
         "storeUrl": "",
         "itemUrl": "http://www.amazon.in/Bodum-Brazil-Shatterproof-French-Coffee/dp/B002UG46DO/",
-        "imageUrl": "http://ecx.images-amazon.com/images/I/61kupSu5F-L._SL1500_.jpg"
+        "imageUrl": "http://ecx.images-amazon.com/images/I/61kupSu5F-L._SL1500_.jpg",
+        "reasonUrl": "https://www.amazon.com/Bodum-Brazil-Shatterproof-French-Coffee/product-reviews/B002UG46DO/ref=cm_cr_dp_see_all_summary?ie=UTF8&reviewerType=avp_only_reviews&showViewpoints=1&sortBy=helpful"
     },
     {
         "name": "Leatherman New Wave",
@@ -205,7 +227,8 @@
         "store": "Amazon",
         "storeUrl": "",
         "itemUrl": "http://www.amazon.in/Leatherman-Multitool-Leather-Combination-Extension/dp/B00WTHPM6Y/ref=sr_1_1?ie=UTF8&qid=1479225278&sr=8-1&keywords=Leatherman+New+Wave",
-        "imageUrl": "http://ecx.images-amazon.com/images/I/71wkRPAZBWL._SL1200_.jpg"
+        "imageUrl": "http://ecx.images-amazon.com/images/I/71wkRPAZBWL._SL1200_.jpg",
+        "reasonUrl": "https://www.amazon.com/Leatherman-Multitool-Leather-Combination-Extension/product-reviews/B00WTHPM6Y/ref=cm_cr_dp_see_all_summary?ie=UTF8&reviewerType=avp_only_reviews&showViewpoints=1&sortBy=helpful"
     },
     {
         "name": "Victorinox Climber Camoflage Swiss Army Knife",
@@ -214,7 +237,8 @@
         "store": "Amazon",
         "storeUrl": "",
         "itemUrl": "http://www.amazon.in/Victorinox-Climber-Camoflage-Swiss-1-3703-94/dp/B001U52BC4/ref=sr_1_32?ie=UTF8&qid=1479225369&sr=8-32&keywords=victorinox",
-        "imageUrl": "http://ecx.images-amazon.com/images/I/51KyZ7Xp1KL.jpg"
+        "imageUrl": "http://ecx.images-amazon.com/images/I/51KyZ7Xp1KL.jpg",
+        "reasonUrl": "http://bestmultitoolkit.com/reviews/victorinox-swiss-army-climber-pocket-knife/"
     },
     {
         "name": "Victorinox Unisex Black Wallet 31172601",
@@ -223,7 +247,8 @@
         "store": "Amazon",
         "storeUrl": "",
         "itemUrl": "http://www.amazon.in/Victorinox-Unisex-Black-Wallet-31172601/dp/B00UCAMO4S/ref=sr_1_14?ie=UTF8&qid=1479225354&sr=8-14&keywords=victorinox",
-        "imageUrl": "http://ecx.images-amazon.com/images/I/9114n%2BMgm0L._SL1493_.jpg"
+        "imageUrl": "http://ecx.images-amazon.com/images/I/9114n%2BMgm0L._SL1493_.jpg",
+        "reasonUrl": "http://www.amazon.in/Victorinox-Unisex-Black-Wallet-31172601/dp/B00UCAMO4S/ref=sr_1_14?ie=UTF8&qid=1479225354&sr=8-14&keywords=victorinox"
     },
     {
         "name": "Eliofeet Men Running Shoes - Black Green",
@@ -232,16 +257,18 @@
         "store": "Decathlon",
         "storeUrl": "",
         "itemUrl": "http://www.decathlon.in/p/8351744_eliofeet-men-s-black-green.html#/4914-272-uk_5_5_eu_39",
-        "imageUrl": "http://media.decathlon.in/192399/eliofeet-men-s-black-green.jpg"
+        "imageUrl": "http://media.decathlon.in/192399/eliofeet-men-s-black-green.jpg",
+        "reasonUrl": "http://www.decathlon.in/p/8351744_eliofeet-men-s-black-green.html#oyreviews_content_container"
     },
     {
         "name": "Braun MG5090 Wet and Dry Multi Groomer",
-        "reason": "Ultimate shaver + trimmer",
+        "reason": "Ultimate shaver and trimmer",
         "price": "4,899",
         "store": "Amazon",
         "storeUrl": "",
         "itemUrl": "http://www.amazon.in/Braun-MG5090-Wet-Multi-Groomer/dp/B017LSXT2O/",
-        "imageUrl": "http://ecx.images-amazon.com/images/I/711wu7q1qHL._SL1500_.jpg"
+        "imageUrl": "http://ecx.images-amazon.com/images/I/711wu7q1qHL._SL1500_.jpg",
+        "reasonUrl": "http://www.amazon.in/Braun-MG5090-Wet-Multi-Groomer/product-reviews/B017LSXT2O/ref=dpx_acr_txt?showViewpoints=1"
     },
     {
         "name": "Wire Clips Set of 4 - Tan",
@@ -250,7 +277,8 @@
         "store": "Napa Dori",
         "storeUrl": "",
         "itemUrl": "http://www.nappadori.com/wire-clips-set-of-4-tan.html",
-        "imageUrl": "http://www.nappadori.com/media/catalog/product/cache/1/image/1600x1411/9df78eab33525d08d6e5fb8d27136e95/w/i/wire-clips-set-of-4---tan1_1.jpg"
+        "imageUrl": "http://www.nappadori.com/media/catalog/product/cache/1/image/1600x1411/9df78eab33525d08d6e5fb8d27136e95/w/i/wire-clips-set-of-4---tan1_1.jpg",
+        "reasonUrl": "https://twitter.com/nimkarkedar/status/799148677184909312"
     },
     {
         "name": "Reos Lite LED Smart Bulb",
@@ -259,7 +287,8 @@
         "store": "Flipkart",
         "storeUrl": "",
         "itemUrl": "https://www.flipkart.com/reos-lite-led-smart-bulb/p/itmehvmfhradshpp?",
-        "imageUrl": "https://rukminim1.flixcart.com/image/832/832/smart-lighting/h/h/g/1-0-reos-original-imaemyhgkhwg8h6x.jpeg?q=70"
+        "imageUrl": "https://rukminim1.flixcart.com/image/832/832/smart-lighting/h/h/g/1-0-reos-original-imaemyhgkhwg8h6x.jpeg?q=70",
+        "reasonUrl": "https://www.flipkart.com/reos-lite-led-smart-bulb/product-reviews/itmehvmfhradshpp?pid=LLSEHVMFA2XBZHHG"
     },
     {
         "name": "BikerZ Rear Mounted Car Bike Rack : Model TrunkZ",
@@ -268,7 +297,8 @@
         "store": "Amazon",
         "storeUrl": "",
         "itemUrl": "http://www.amazon.in/BikerZ-Rear-Mounted-Bike-Rack/dp/B00H47FPJI/ref=sr_1_1?ie=UTF8&qid=1479225568&sr=8-1&keywords=Cycle+rack",
-        "imageUrl": "http://ecx.images-amazon.com/images/I/71TElq5j8lL._SL1500_.jpg"
+        "imageUrl": "http://ecx.images-amazon.com/images/I/71TElq5j8lL._SL1500_.jpg",
+        "reasonUrl": "http://www.amazon.in/BikerZ-Rear-Mounted-Bike-Rack/product-reviews/B00H47FPJI/ref=dpx_acr_txt?showViewpoints=1"
     },
     {
         "name": "Moto G, 4th Gen (Black, 16GB)",
@@ -277,7 +307,8 @@
         "store": "Amazon",
         "storeUrl": "",
         "itemUrl": "http://www.amazon.in/dp/B01DDP7YI4/",
-        "imageUrl": "http://ecx.images-amazon.com/images/I/61hn8zeyZJL._SL1236_.jpg"
+        "imageUrl": "http://ecx.images-amazon.com/images/I/61hn8zeyZJL._SL1236_.jpg",
+        "reasonUrl": "http://gadgets.ndtv.com/mobiles/reviews/moto-g4-plus-review-838411"
     },
     {
         "name": "Pebble Time 501-00020 Smartwatch - Black",
@@ -286,6 +317,7 @@
         "store": "Ebay",
         "storeUrl": "",
         "itemUrl": "http://www.ebay.in/itm/Pebble-Time-501-00020-Smartwatch-Black-/122137678226",
-        "imageUrl": "http://i.ebayimg.com/00/s/NTAwWDUwMA==/z/ykkAAOSwYIxX3Nqh/$_12.JPG"
+        "imageUrl": "http://i.ebayimg.com/00/s/NTAwWDUwMA==/z/ykkAAOSwYIxX3Nqh/$_12.JPG",
+        "reasonUrl": "https://www.engadget.com/products/pebble/time/"
     }]
 }
